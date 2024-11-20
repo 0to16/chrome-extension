@@ -1,4 +1,4 @@
-// chrome://extensions/
+// chrome://extensions/just checking
 let myLeads = []
 const inputEl = document.getElementById("input-el")
 const inputBtn = document.getElementById("input-btn")
